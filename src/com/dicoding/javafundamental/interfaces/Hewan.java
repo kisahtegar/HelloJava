@@ -1,4 +1,4 @@
-package com.dicoding.javafundamental.oop;
+package com.dicoding.javafundamental.interfaces;
 
 /**
  * interface sangat mirip dengan kelas, tapi tanpa atribut kelas dan memiliki metode yang dideklarasikan tanpa isi.

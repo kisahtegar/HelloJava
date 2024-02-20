@@ -1,4 +1,4 @@
-package com.dicoding.javafundamental.oop;
+package com.dicoding.javafundamental.interfaces;
 
 /**
  * Interface harus dapat digunakan ke kelas lain. Cara untuk mengimplementasi interface yaitu menggunakan keyword
